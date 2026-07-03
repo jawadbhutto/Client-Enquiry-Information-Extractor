@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "Complete Enquiry",
+    "client_enquiry": "Hello, my name is Sarah Johnson, and I work at BrightMart Retail. We are looking for an AI chatbot that can answer customer queries on our website and integrate with Shopify. We'd like to launch it within the next two weeks for our marketing campaign."
+  },
+  {
+    "id": 2,
+    "category": "Complete Enquiry",
+    "client_enquiry": "Hi, I'm David Wilson from Nova Manufacturing. We want to develop an AI-powered predictive maintenance system that can analyze machine sensor data and alert our maintenance team before equipment fails. We hope to begin the project next month."
+  },
+  {
+    "id": 3,
+    "category": "Incomplete Enquiry",
+    "client_enquiry": "Hello, my name is Ahmed Khan. We are interested in using AI to automate invoice processing for our finance department. We are planning to implement it soon and would like to discuss pricing."
+  },
+  {
+    "id": 4,
+    "category": "Incomplete Enquiry",
+    "client_enquiry": "Hi, I'm from GreenTech Solutions. We need an AI assistant that can summarize long technical reports for our engineers. Please share your pricing and estimated development timeline."
+  },
+  {
+    "id": 5,
+    "category": "Very Short Enquiry",
+    "client_enquiry": "Need an AI chatbot for customer support."
+  },
+  {
+    "id": 6,
+    "category": "Very Short Enquiry",
+    "client_enquiry": "Looking for AI to predict sales."
+  },
+  {
+    "id": 7,
+    "category": "Missing Name",
+    "client_enquiry": "We are ABC Logistics, a transportation company. We're looking for an AI solution that predicts delivery delays using historical shipment data. We'd like to deploy it as soon as possible."
+  },
+  {
+    "id": 8,
+    "category": "Missing Company",
+    "client_enquiry": "Hi, my name is Emily Brown. I work in the healthcare industry and need an AI system that can summarize patient reports and generate discharge summaries. We'd like to start development within the next month."
+  },
+  {
+    "id": 9,
+    "category": "Multiple Requirements",
+    "client_enquiry": "Hello, I'm Jason Miller from GreenTech Energy. We're interested in developing an AI chatbot for customer support, an internal document search assistant for employees, and a machine learning dashboard that predicts energy consumption. We'd like to begin the project within the next three months."
+  },
+  {
+    "id": 10,
+    "category": "Multiple Requirements",
+    "client_enquiry": "Hi, I'm Sophia Davis from EduSpark. We need an AI-powered learning assistant for students, an automated grading system for teachers, and a recommendation engine that suggests personalized learning materials. We'd like to launch the first version before the next academic semester."
+  }
+]
