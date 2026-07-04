@@ -22,7 +22,7 @@ It's designed for scenarios like sales/support pipelines where enquiries arrive 
 ```bash
    git clone https://github.com/jawadbhutto/Client-Enquiry-Information-Extractor.git
 
-&#x20;  cd Client-Enquiry-Information-Extractor>
+&#x20;  cd Client-Enquiry-Information-Extractor
    ```
 
 2. **Create a virtual environment (recommended)**
